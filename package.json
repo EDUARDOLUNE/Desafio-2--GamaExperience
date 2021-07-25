@@ -1,0 +1,26 @@
+{
+  "name": "nodets",
+  "version": "1.0.0",
+  "description": "Projeto de teste do TypeScript",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "typescript",
+    "usuario",
+    "criacao"
+  ],
+  "author": "Eduardo Lunardao",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "^16.4.2",
+    "query-string": "^7.0.1",
+    "typescript": "^4.3.5"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "Projeto de TypeSvript"
+  }
+}
